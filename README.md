@@ -20,3 +20,5 @@ Repository per il caso di studio di Ingegneria della Conoscenza A.A. 2021-2022 -
 <code>cd code</code>
 
 <code>python main.py</code>
+
+Progetto realizzato con @giuseppegalgano
